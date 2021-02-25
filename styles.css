@@ -1,0 +1,143 @@
+.everything {
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    border: solid black 2px;
+}
+
+.bio-box {
+    padding: 2px;
+    margin: 2px;
+
+}
+
+.name {
+    border-bottom: 2px solid black;
+    font-size: 20px;
+
+}
+
+.h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+
+.click {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    justify-content: space-around;
+    padding: 5px;
+    border: solid black 2px;
+    margin: 5px;
+}
+
+.image {
+    border: solid black 1px;
+    Padding: 5px;
+    width: 250px;
+    height: 250px;
+    display: block;
+    background-color: pink;
+}
+
+.second-image {
+    border: solid black 1px;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+    display: block;
+    background-color: pink;
+}
+
+.third-image {
+    border: solid black 1px;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+    display: block;
+    background-color: pink;
+}
+
+.fourth-image {
+    border: solid black 1px;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+    display: block;
+    background-color: pink;
+}
+
+
+.caption {
+    font-size: 20px;
+}
+
+.bio {
+    padding: 10px;
+    border: solid black 1px;
+    margin: 1px;
+}
+
+.bio-picture {
+    border-radius: 100%;
+    border: 3px solid;
+    height: 170px;
+    width: 170px;
+}
+
+.second-inner {
+    border: solid black 1px;
+    padding: 5px;
+    margin: 1px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.padding {
+    padding: 10px;
+}
+
+
+.blue {
+    background-color: #7adeff;
+}
+
+.yellow {
+    background-color: #fffab3;
+}
+
+.purple {
+    background-color: #bdb3ff;
+}
+
+.photo {
+    width: 45px;
+    height: 45px;
+    margin-right: 0;
+    margin-left: auto;
+    display: block;
+}
+
+.navigator {
+    display: flex;
+    background-color: #7adeff;
+    justify-content: space-between;
+    padding: 5px;
+    border: solid black 2px;
+}
+
+.bar {
+    margin: 2px;
+    padding: 15px;
+    border: 2px solid black;
+    background-color: pink;
+}
+
+.caption {
+    text-align: center;
+}
